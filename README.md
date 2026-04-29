@@ -92,7 +92,7 @@ Menyempurnakan antarmuka saat data sudah berjumlah banyak.
 <img width="1577" height="841" alt="Screenshot 2026-04-27 092257" src="https://github.com/user-attachments/assets/a85f3d6f-1eb8-4f6d-a447-424136d9b39d" />
 
 **TAMPILAN TAMBAH ARTIKEL:**
-<img width="1531" height="972" alt="Screenshot 2026-04-27 092322" src="https://github.com/user-attachments/assets/ddaa6d9c-da51-4d3f-8911-c78ce53fb8e8" />
+<img width="1515" height="965" alt="Screenshot 2026-04-27 092342" src="https://github.com/user-attachments/assets/6007a34e-5aad-4208-b97a-16cd347dec88" />
 
 **TAMPILAN UBAH ARTIKEL**
 <img width="1531" height="972" alt="Screenshot 2026-04-27 092322" src="https://github.com/user-attachments/assets/414f6e14-6241-4045-9fc0-2c5d22862444" />
