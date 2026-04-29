@@ -55,7 +55,7 @@ Menyempurnakan antarmuka saat data sudah berjumlah banyak.
 
 1.  **Clone & Setup:**
     ```bash
-    git clone [https://github.com/fajarfawwaz/Lab7Web.git](https://github.com/fajarfawwaz/Lab7Web.git)
+    git clone [https://github.com/josse111/Lab7Web.git](https://github.com/josse111/Lab7Web.git)
     cd Lab7Web
     ```
 2.  **Database:**
@@ -77,35 +77,30 @@ Menyempurnakan antarmuka saat data sudah berjumlah banyak.
 ## 📸 Bukti Hasil Praktikum
 
 1. **Tampilan Home User:**
-<img width="1917" height="931" alt="Screenshot 2026-04-07 123939" src="https://github.com/user-attachments/assets/fc549396-5e71-495e-b0a3-9369ee94efbe" />
+<img width="1765" height="1025" alt="Screenshot 2026-04-27 092018" src="https://github.com/user-attachments/assets/cf8febac-a59e-48af-b150-a145820ec274" />
+
 
 **TAMPILAN ARTIKEL:**
-<img width="1915" height="933" alt="image" src="https://github.com/user-attachments/assets/ded9bb8e-dc40-4f02-8402-1264b077006b" />
-
-**TAMPILAN ABOUT:**
-<img width="1919" height="951" alt="image" src="https://github.com/user-attachments/assets/0b213eda-66d1-4708-9883-cea56fba9ad4" />
+<img width="1501" height="954" alt="Screenshot 2026-04-27 092223" src="https://github.com/user-attachments/assets/118c19fe-5026-48b6-9094-5247b9bac2d1" />
 
 **TAMPILAN CONTACT:**
-<img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/3d5d9c54-d2d9-4a1b-9a2d-f5be42c9c0e6" />
+<img width="1490" height="973" alt="Screenshot 2026-04-27 092242" src="https://github.com/user-attachments/assets/ecb0efb6-0cd5-4b46-85d6-97fbe085d53e" />
+
 
 
 2. **Dashboard Admin:**
-<img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/71db630f-e8b4-42f1-a981-96a9329a3a49" />
+<img width="1577" height="841" alt="Screenshot 2026-04-27 092257" src="https://github.com/user-attachments/assets/a85f3d6f-1eb8-4f6d-a447-424136d9b39d" />
 
 **TAMPILAN TAMBAH ARTIKEL:**
-<img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/d0ace816-4a7f-4f3e-9d0e-4baf15d96fc2" />
-<img width="1918" height="948" alt="image" src="https://github.com/user-attachments/assets/83dcba3b-abc6-4007-b615-ada5ef95a8ab" />
+<img width="1531" height="972" alt="Screenshot 2026-04-27 092322" src="https://github.com/user-attachments/assets/ddaa6d9c-da51-4d3f-8911-c78ce53fb8e8" />
 
 **TAMPILAN UBAH ARTIKEL**
-<img width="1914" height="940" alt="image" src="https://github.com/user-attachments/assets/c5e93eed-d859-445d-9669-7ce8ffe0e283" />
+<img width="1531" height="972" alt="Screenshot 2026-04-27 092322" src="https://github.com/user-attachments/assets/414f6e14-6241-4045-9fc0-2c5d22862444" />
 
-
-3. **Fitur Pencarian:**
-<img width="1006" height="417" alt="image" src="https://github.com/user-attachments/assets/ac0b2ea5-d630-4e61-a481-74b4989762ef" />
 
 4. **Halaman Login:**
-<img width="1916" height="937" alt="image" src="https://github.com/user-attachments/assets/36187c0c-4809-4300-a265-2cad73951e4f" />
+<img width="1493" height="873" alt="Screenshot 2026-04-27 092402" src="https://github.com/user-attachments/assets/6bbfb40f-4161-4120-9129-6d0e3bf0a5e9" />
 
 
 ---
-**Status Proyek:** Selesai (Modul 1-5) ✅
+**Status Proyek:** Selesai (Modul 1-4) ✅
